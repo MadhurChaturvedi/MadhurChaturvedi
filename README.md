@@ -4,7 +4,7 @@
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height = "30px"> -->
 </h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssahibsingh&label=Profile%20views&color=1c87ca&style=flat" alt="ssahibsingh" /> </p> -->
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="1000">
 <h2>About Me</h2>
 
 <ul type="none">
