@@ -1,6 +1,7 @@
 
 
 <h1 align="center">Hi, I'm Madhur Chaturvedi 👋
+<h3 align="center">passionate about front-end development backend development and mern stack along with New Tech like java SpringBoot and Django </h3>
 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height = "30px"> -->
 </h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssahibsingh&label=Profile%20views&color=1c87ca&style=flat" alt="ssahibsingh" /> </p> -->
