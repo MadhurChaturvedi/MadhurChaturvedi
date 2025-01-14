@@ -1,5 +1,4 @@
-<div style="display:flex; ">
-  ##  <h1  align="center"> HI THERE! 👋 I'M MADHUR </h1> 
+<div style="display:flex; ">  <h1  align="center"> HI THERE! 👋 I'M MADHUR </h1> 
 </div>
 
 <p align="center">I am a passionate **Software Engineer** with expertise in building robust, scalable, and efficient web and mobile applications. I specialize in full-stack development using modern technologies and frameworks.  </p>
