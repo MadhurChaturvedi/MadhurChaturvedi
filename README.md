@@ -1,9 +1,10 @@
-<div style="display:flex; ">  <h1  align="center"> HI THERE! 👋 I'M MADHUR CHATURVEDI</h1> 
-</div>
+<div style="display:flex;">  
+  <h1 align="center"> HI THERE! 👋 I'M MADHUR CHATURVEDI</h1>  
+</div>  
 
-<p align="center">I am a passionate **Software Engineer** with expertise in building robust, scalable, and efficient web and mobile applications. I specialize in full-stack development using modern technologies and frameworks.  </p>
+<p align="center">I am a passionate **Software Engineer** with expertise in building robust, scalable, and efficient web and mobile applications. I specialize in full-stack development using modern technologies and frameworks.  </p>  
 
-<img width="800px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  alt="no-Gif"/>
+<img width="800px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="no-Gif"/>  
 
 ## 🚀 Skills  
 - **Frontend Development**:  
@@ -27,19 +28,13 @@ I have freelanced on projects in:
 - **Spring Boot Applications**: Creating robust backend systems with MySQL databases and seamless API integrations.  
 
 ## 🌱 What I’m currently learning  
-- Enhancing my skills in **Spring Boot** and **Android development**.  
+- Enhancing my skills in **Spring Boot**, **Android development**, and **UI/UX design**.  
 - Exploring advanced React.js features like Server Components and Suspense.  
 
 ## 📫 Let's Connect  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-chaturvedi-183a16196/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-chaturvedi-183a16196/)  
 - [Email](madhurchaturvedi2000@gmail.com)  
 
 ---
 
 🌟 "Always coding towards perfection!" 🌟  
-
-
-
-
-
-
