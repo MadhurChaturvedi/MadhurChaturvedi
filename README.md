@@ -1,40 +1,120 @@
-<div style="display:flex;">  
-  <h1 align="center"> HI THERE! 👋 I'M MADHUR CHATURVEDI</h1>  
-</div>  
+# Hi 👋, I'm Madhur Chaturvedi
 
-<p align="center">I am a passionate **Software Engineer** with expertise in building robust, scalable, and efficient web and mobile applications. I specialize in full-stack development using modern technologies and frameworks.  </p>  
+### 🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 💻 Software Engineer
 
-<img loop autoplay width="800px" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="no-Gif"/>  
-
-## 🚀 Skills  
-- **Frontend Development**:  
-  - JavaScript (ES6+), React.js  
-  - Responsive Design with Tailwind CSS and Material-UI  
-
-- **Backend Development**:  
-  - Node.js, Express.js  
-  - MongoDB for NoSQL databases  
-
-- **Mobile Development**:  
-  - Android Development using Java and SQLite  
-
-- **Other Skills**:  
-  - Spring Boot for building RESTful APIs  
-  - API Integration and Authentication (JWT, OAuth)  
-
-## 💻 Freelance Experience  
-I have freelanced on projects in:  
-- **Android Development**: Building apps with CRUD functionality, SQLite integration, and user-friendly UI/UX.  
-- **Spring Boot Applications**: Creating robust backend systems with MySQL databases and seamless API integrations.  
-
-## 🌱 What I’m currently learning  
-- Enhancing my skills in **Spring Boot**, **Android development**, and **UI/UX design**.  
-- Exploring advanced React.js features like Server Components and Suspense.  
-
-## 📫 Let's Connect  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhur-chaturvedi-183a16196/)  
-- [Email](madhurchaturvedi2000@gmail.com)  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Spring+Boot+Developer;AI%2FML+Learner;Always+Coding+Towards+Perfection+🔥" />
+</p>
 
 ---
 
-🌟 "Always coding towards perfection!" 🌟  
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/madhur-chaturvedi-183a16196/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:madhurchaturvedi2000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+* 🔭 Currently working on **Full Stack & AI Projects**
+* 🌱 Learning **Spring Boot, AI/ML, NLP & LLMs**
+* 💬 Ask me about **MERN Stack, React, Node.js, MongoDB**
+* 📱 Android Developer using **Java & SQLite**
+* ⚡ Fun fact: **I love building scalable applications**
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui" />
+</p>
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
+</p>
+
+## 📱 Mobile Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,androidstudio" />
+</p>
+
+## 🤖 AI/ML & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,vscode" />
+</p>
+
+---
+
+# 💼 Freelance Experience
+
+## 📱 Android Development
+
+* CRUD Applications
+* SQLite Database Integration
+* Clean UI/UX Design
+
+## ☕ Spring Boot Applications
+
+* REST APIs
+* JWT Authentication
+* MySQL Integration
+* Backend Architecture
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌟 Quote
+
+### ✨ "Always coding towards perfection!" ✨
