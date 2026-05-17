@@ -1,7 +1,13 @@
+<p align="center">
 # Hi 👋, I'm Madhur Chaturvedi
 
+</p>
+
+
+<p align="center">
 ### 🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 💻 Software Engineer
 
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Spring+Boot+Developer;AI%2FML+Learner;Always+Coding+Towards+Perfection+🔥" />
 </p>
