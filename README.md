@@ -83,9 +83,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> -->
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> 
 
 </p>
 
@@ -94,7 +94,7 @@
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/> <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"/> <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/> </p>
 </p>
 
 ---
@@ -102,17 +102,20 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/43b8fce6-672b-45fc-99c1-ed0a513dc6a5" />
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/0964ccd2-9bcd-48d0-a52b-960f1e389af6" />
 </p>
 
 ---
-
+<!--
 # 🔥 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+<img width="558" height="508" alt="image" src="https://github.com/user-attachments/assets/b74e650c-1314-47c0-a276-5c62bf13a391" />
 
+</p>
+-->
 ---
 
 # 🌟 Quote
