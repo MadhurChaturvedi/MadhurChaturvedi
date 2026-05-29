@@ -1,6 +1,5 @@
 <p align="center">
 # Hi 👋, I'm Madhur Chaturvedi
-
 </p>
 
 
