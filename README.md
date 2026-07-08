@@ -4,7 +4,7 @@
 
 
 <p align="center">
-### 🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 💻 Software Engineer
+### 🚀 Full Stack Developer | 💻 Software Engineer
 
 </p>
 <p align="center">
