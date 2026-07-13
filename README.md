@@ -25,72 +25,47 @@
 </a>
 </p>
 
----
-
-# 👨‍💻 About Me
-
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-* 🔭 Currently working on **Full Stack & AI Projects**
-* 🌱 Learning **Spring Boot, AI/ML, NLP & LLMs**
-* 💬 Ask me about **MERN Stack, React, Node.js, MongoDB**
-* 📱 Android Developer using **Java & SQLite**
-* ⚡ Fun fact: **I love building scalable applications**
-
----
-
-# 🚀 Tech Stack
-
-## 💻 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,materialui" />
-</p>
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql" />
-</p>
-
-## 📱 Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,androidstudio" />
-</p>
-
-## 🤖 AI/ML & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,vscode" />
-</p>
-
----
-
-# 💼 Freelance Experience
-
-## 📱 Android Development
-
-* CRUD Applications
-* SQLite Database Integration
-* Clean UI/UX Design
-
-## ☕ Spring Boot Applications
-
-* REST APIs
-* JWT Authentication
-* MySQL Integration
-* Backend Architecture
-
----
-
 # 📊 GitHub Stats
 
 <p align="center">
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> -->
+# Madhur Chaturvedi
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" /> 
+M.Tech (Computer Science & Engineering) student and Full Stack Developer with experience building scalable web applications using the MERN stack and modern web technologies. Passionate about software engineering, backend systems, and artificial intelligence, with a strong focus on Natural Language Processing (NLP) and Large Language Models (LLMs).
+
+## Technical Skills
+
+- **Languages:** JavaScript, TypeScript, Python, C++, Java
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, GitHub, Postman
+
+## Current Focus
+
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- System Design & Scalable Backend Development
+
+## Goals
+
+- Build production-ready software and AI applications.
+- Contribute to open-source projects.
+- Continuously improve software engineering and problem-solving skills.
+
+    </td>
+
+    <td width="40%" align="center">
+      <!-- <img src="https://github.com/user-attachments/assets/21369506-3190-47b8-adf9-6caafbd88e8b" width="350" alt="Profile GIF"> -->
+        <img width="500" height="1000" alt="dbqhrey-670bf4fb-2f02-4688-bff3-094714b20d63" src="https://github.com/user-attachments/assets/dce2ead5-8b4c-4ace-91e1-999945ee0c0e" /> 
+    </td>
+  </tr>
+</table>
 
 </p>
 
