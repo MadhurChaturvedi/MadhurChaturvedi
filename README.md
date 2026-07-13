@@ -62,7 +62,7 @@ M.Tech (Computer Science & Engineering) student and Full Stack Developer with ex
 
     <td width="40%" align="center">
       <!-- <img src="https://github.com/user-attachments/assets/21369506-3190-47b8-adf9-6caafbd88e8b" width="350" alt="Profile GIF"> -->
-        <img width="500" height="1000" alt="dbqhrey-670bf4fb-2f02-4688-bff3-094714b20d63" src="https://github.com/user-attachments/assets/dce2ead5-8b4c-4ace-91e1-999945ee0c0e" /> 
+        <img width="380" height="1000" alt="dbqhrey-670bf4fb-2f02-4688-bff3-094714b20d63" src="https://github.com/user-attachments/assets/dce2ead5-8b4c-4ace-91e1-999945ee0c0e" /> 
     </td>
   </tr>
 </table>
