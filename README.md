@@ -69,28 +69,3 @@ M.Tech (Computer Science & Engineering) student and Full Stack Developer with ex
 
 </p>
 
----
-
-# 📈 Most Used Languages
-
-<center> 
-  <p align="center">
-<p align="left"> <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java"/> <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript"/> <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="C++"/> <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python"/> </p>
-</p>
-</center>
----
----
-<!--
-# 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-<img width="558" height="508" alt="image" src="https://github.com/user-attachments/assets/b74e650c-1314-47c0-a276-5c62bf13a391" />
-
-</p>
--->
----
-
-# 🌟 Quote
-
-### ✨ "Always coding towards perfection!" ✨
